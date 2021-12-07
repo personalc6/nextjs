@@ -1,5 +1,5 @@
 {
-  "name": "wecentive-master",
+  "name": "with-typescript-scss-jwt",
   "private": true,
   "scripts": {
     "dev": "next dev",
