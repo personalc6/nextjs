@@ -1,5 +1,5 @@
 import '../styles/globals.css';
-import type { AppContext, AppProps } from 'next/app';
+import type { AppContext } from 'next/app';
 import { AuthProvider, getUser } from '../components/AuthProvider';
 import App from 'next/app'
 
